@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Kiruban 👋
 
-<!--
-**kirubankamaraj/kirubankamaraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 I’m a **Software Engineer at Zoho**
 
-Here are some ideas to get you started:
+🔭 Currently building and enhancing **Zoho Finance products**    
+🌱 Exploring **Apache Airflow, Spark, and Iceberg**, and contributing wherever I can
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kirubankamaraj&theme=dark&show_icons=true)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](http://www.linkedin.com/in/kiruban-kamaraj)
